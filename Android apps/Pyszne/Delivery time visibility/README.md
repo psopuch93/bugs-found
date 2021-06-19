@@ -28,24 +28,24 @@ Date: 18.06.2021
 
 I ordered food from a local restaurant using Pyszne app.
 
-At ratio 13:6 (vertical) in food preparation status i saw that estimated time in text is hidden by tip section:
+At ratio 6:13 (vertical) in food preparation status i saw that estimated time in text is hidden by tip section:
 
 ![Pyszne_bug](https://user-images.githubusercontent.com/74911214/122643941-dbab8680-d112-11eb-9fd5-eedaba50fcf9.jpg)
 
 
-At ratio 6:13 (horizontal) food preparation status looks good:
+At ratio 13:6 (horizontal) food preparation status looks good:
 
 ![Pyszne_bug_prepared_horizontal](https://user-images.githubusercontent.com/74911214/122643787-152fc200-d112-11eb-9d07-aa862415b772.jpg)
 
 
 At delivery status everything looks great:
 
-Ratio 13:6 
+Ratio 6:13 
 
 ![pszyne_bug_delivering_horizontal_small](https://user-images.githubusercontent.com/74911214/122643895-a868f780-d112-11eb-8750-aecc7b3e57e0.jpg)
 
 
-Ratio 6:13
+Ratio 13:6
 ![Pyszne_bug_delivering_horizontal](https://user-images.githubusercontent.com/74911214/122643755-ea456e00-d111-11eb-8603-9bc0654a7c47.jpg)
 
 
