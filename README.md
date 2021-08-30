@@ -1,2 +1,2 @@
 # bugs-found
-Repository with some bugs found in apps and websites
+Repository with some bugs/defects found in apps and websites
